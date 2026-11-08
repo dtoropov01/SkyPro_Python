@@ -11,7 +11,7 @@ print_num(5)
 print_num(5)
 print_num(3)
 print_num(5)
-print_num(3) 
+print_num(3)
 print_num(5)
 
 print()
